@@ -33,5 +33,6 @@ Donnees synthetiques ; seulement 134 fraudes dans le test ; LIME varie selon la 
 Revue humaine avant tout blocage ; surveiller la derive du montant et de la frequence ; relancer la comparaison avec le modele interpretable apres chaque reentrainement.
 
 ## Tracabilite
-Run des explications (experience tp7-explicabilite) : xai-fraude-v1, run [identifiant affiche par journaliser.py]
-Auteurs : [Aya + binome]   Date : 2026-11-10   Prochaine revue : [date]
+## Tracabilite
+Run des explications (experience tp7-explicabilite) : xai-fraude-v1, run 06668142f500485ab6a19a9c473f5eda
+Auteurs : Aya + Manal Date : 2026-11-10   Prochaine revue :  2027-02-10
