@@ -13,7 +13,7 @@ Bloquer definitivement un compte ou refuser un paiement sans revue humaine : le 
 Utilisation sur des donnees reelles sans nouvelle validation : le modele a ete entraine et evalue sur des donnees synthetiques.
 
 ## Donnees
-Fichier : data/transactions.csv, 5 000 lignes, 568 fraudes (11,4 %), empreinte md5 (tag donnees_md5) : VALEUR_MD5
+Fichier : data/transactions.csv, 5 000 lignes, 568 fraudes (11,4 %), empreinte md5 (tag donnees_md5) : cf9f6f86c141e7df32c61715c493483f
 Origine des donnees : synthetiques, generees par donnees.py (graine 7)
 
 ## Performances (jeu de test, 1 250 transactions)
